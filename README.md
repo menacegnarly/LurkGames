@@ -1,2 +1,2 @@
 menace gnarly RULES!
-         - menace gnarly
+- menace gnarly
